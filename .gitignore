@@ -9,3 +9,6 @@ config.json
 .env*
 
 dots.tar.gz
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
